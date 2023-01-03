@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving-hand" height="30" width="30"  margin-right="48"/>, I'm M Noor Mohammed</h1>
-<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="450px" width="100%"/>
+<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
 <h3 align="center">A passionate MERN developer continuously working to improve myself and learning new technologies in both frontend and backend to stay competitive in the IT industry.</h3>
 
