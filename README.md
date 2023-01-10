@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving-hand" height="30" width="30"  margin-right="48"/>, I'm M Noor Mohammed</h1>
-<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
-<h3 align="center">A passionate MERN developer continuously working to improve myself and learning new technologies in both frontend and backend to stay competitive in the IT industry.</h3>
+<h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in both frontend and backend.Looking forward to join the challenging work environment. </h3>
+
+<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormohammed17&label=Profile%20views&color=0e75b6&style=flat" alt="noormohammed17" /> </p>
 
-- 🔭 I’m currently working on **Next.js**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Typescript,Redux and Next.js**
 
@@ -15,9 +16,14 @@
 
 - 📫 How to reach me **noorshaik1798@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" height="30" width="40" /></a>
+<h3 align="center">🌐 Socials:</h3>
+<!--  [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-noor-mohammed-6130a4165/)  -->
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" height="30" width="100" /></a>
+ 
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
