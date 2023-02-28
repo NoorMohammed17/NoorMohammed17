@@ -10,11 +10,15 @@
 
 - 🌱 I’m currently learning **Typescript,Redux and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://noormohammed17.github.io/](https://noormohammed17.github.io/)
-
 - 💬 Ask me about **HTML, CSS, javaScript , React.js and Next.js**
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://noormohammed17.github.io/)
+
+- 📄 Check [Resume](https://drive.google.com/file/d/1jRySSU_Uuv_yTrvth5NLmz1ujZBK8owx/view)
+
 - 📫 How to reach me **noorshaik1798@gmail.com**
+
+<img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="center">🌐 Socials:</h3>
 
