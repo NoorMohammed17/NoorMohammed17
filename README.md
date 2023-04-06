@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving-hand" height="30" width="30"  margin-right="48"/>, I'm M Noor Mohammed</h1>
 
-<h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in both frontend and backend.Looking forward to join the challenging work environment. </h3>
+<h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in  frontend.Looking forward to join the challenging work environment. </h3>
 
 <img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
