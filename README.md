@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://noormohammed17.github.io/)
 
-- 📄 Check [Resume](https://drive.google.com/file/d/1jRySSU_Uuv_yTrvth5NLmz1ujZBK8owx/view)
+- 📄 Check [Resume](https://drive.google.com/file/d/1xe-KI7xm4BEptoKYsZCT86irx4F9iX6y/view)
 
 - 📫 How to reach me **noorshaik1798@gmail.com**
 
