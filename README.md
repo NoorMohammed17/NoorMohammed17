@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Typescript,Redux and Next.js**
+- 🌱 I’m currently learning **MongoDB, Express.js, Node.js**
 
-- 💬 Ask me about **HTML, CSS, javaScript , React.js and Next.js**
+- 💬 Ask me about **HTML, CSS, JavaScript , React.js and Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://noormohammed17.github.io/)
 
