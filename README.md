@@ -1,7 +1,14 @@
 
 <h1 align="center">👋 Welcome to My GitHub Profile! 🚀 Hi<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving-hand" height="30" width="30"  margin-right="48"/>, I'm M Noor Mohammed</h1>
 
-<h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in  frontend.Looking forward to join the challenging work environment. </h3>
+<h4>💼 Professional Summary</h4>
+<p>
+  A passionate <b>MERN Stack Developer</b> from Andhra Pradesh with hands-on experience in building dynamic, scalable, and responsive web applications. 
+  Continuously focused on self-improvement and learning, with a growing expertise in <b>frontend technologies</b> and modern frameworks. 
+  Currently employed and expanding skills into the field of <b>Machine Learning</b>, with proficiency in <b>Python</b>, <b>NumPy</b>, <b>Pandas</b>, and related data technologies. 
+  Eager to contribute to a <b>challenging and growth-oriented work environment</b>, where I can leverage both my <b>development</b> and <b>analytical skills</b> 
+  to create impactful solutions.
+</p><h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in  frontend.Looking forward to join the challenging work environment. </h3>
 
 <img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
