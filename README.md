@@ -8,7 +8,7 @@
   Currently employed and expanding skills into the field of <b>Machine Learning</b>, with proficiency in <b>Python</b>, <b>NumPy</b>, <b>Pandas</b>, and related data technologies. 
   Eager to contribute to a <b>challenging and growth-oriented work environment</b>, where I can leverage both my <b>development</b> and <b>analytical skills</b> 
   to create impactful solutions.
-</p><h3 align="center">A passionate MERN developer from Andhra Pradesh, continuously working to improve myself and learning new technologies in  frontend.Looking forward to join the challenging work environment. </h3>
+</p>
 
 <img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
