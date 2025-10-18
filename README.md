@@ -1,7 +1,11 @@
 
-<h1 align="center">👋 Welcome to My GitHub Profile! 🚀 Hi<img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="waving-hand" height="30" width="30"  margin-right="48"/>, I'm M Noor Mohammed</h1>
+<h1 align="center">
+  👋 Welcome to My GitHub Profile! 🚀 <br/>
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>M Noor Mohammed</b>
+</h1>
 
-<h4>💼 Professional Summary</h4>
+
+<h3>💼 Professional Summary</h3>
 <p>
   A passionate <b>MERN Stack Developer</b> from Andhra Pradesh with hands-on experience in building dynamic, scalable, and responsive web applications. 
   Continuously focused on self-improvement and learning, with a growing expertise in <b>frontend technologies</b> and modern frameworks. 
@@ -14,11 +18,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noormohammed17&label=Profile%20views&color=0e75b6&style=flat" alt="noormohammed17" /> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **real-world web development projects**, focusing on creating scalable and user-friendly MERN applications.  
 
-- 🌱 I’m currently learning **MongoDB, Express.js, Node.js**
+- 🌱 I’m currently learning **Machine Learning, Python (NumPy, Pandas), and exploring how AI can integrate with modern web technologies.**  
 
-- 💬 Ask me about **HTML, CSS, JavaScript , React.js and Next.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, and everything related to the MERN Stack!**  
+
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://noormohammed17.github.io/)
 
